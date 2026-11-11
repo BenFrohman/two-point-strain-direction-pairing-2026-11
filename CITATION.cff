@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this note, please cite it using the metadata below."
+type: software
+title: "The Two-Point Strain–Direction Pairing for Unmodified 3D Navier–Stokes"
+authors:
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
+    alias: "B.S. Frohman"
+    orcid: "https://orcid.org/0009-0006-7068-3718"
+    email: "frohmanbenjamin@gmail.com"
+    affiliation: "Independent Researcher, Texas, United States"
+doi: 10.5281/zenodo.24066255
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24066255
+    description: "Zenodo record of the published note"
+  - type: doi
+    value: 10.5281/zenodo.24066254
+    description: "Zenodo concept DOI (all versions)"
+repository-code: "https://github.com/BenFrohman/two-point-strain-direction-pairing-2026-11"
+license: Apache-2.0
+date-released: "2026-11-09"
+abstract: "On unmodified 3D incompressible Navier–Stokes, the geometric-kernel expansion of the two-point strain–direction pairing stops at C_CZ M(t)|δξ|² plus named remainders (A)–(C). Replacing the coefficient by an M-independent −γ is equivalent to the regularity problem. Explicit non-claim: this note does not prove global regularity and does not discharge the Constantin–Fefferman hypothesis."
+keywords:
+  - Navier–Stokes
+  - vorticity direction
+  - strain tensor
+  - Calderón–Zygmund
